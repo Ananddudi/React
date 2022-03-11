@@ -4,4 +4,6 @@
 2) Open Settings.json and paste following code in-<br><code>  "emmet.includeLanguages": { "javascript": "javascriptreact"  },</code><br>
 3) ES7 React/Redux/GraphQL/React-Native snippets (for rafce to create arrow function || rfce for exporting and as such  )
 <h3>Sublime</h3>
-package install - 'Noami' for everything
+package install - 'Noami' for everything<br>
+Prettier also if you want formatter
+
